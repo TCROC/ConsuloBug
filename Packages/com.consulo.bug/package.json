@@ -1,0 +1,11 @@
+{
+    "name": "com.consulo.bug",
+    "displayName": "Consulo Bug",
+    "description": "This is repoducing a bug in Consulo.",
+    "version": "1.0.0",
+    "author": "TCROC",
+    "url": "https://www.google.com",
+    "dependencies": {
+    },
+    "type": "tool"
+  }

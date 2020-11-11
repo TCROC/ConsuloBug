@@ -1,0 +1,15 @@
+{
+    "name": "PackageReferencingBug",
+    "references": [
+        "GUID:7442a068d15dc104792fad09266959e3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
