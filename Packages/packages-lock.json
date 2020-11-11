@@ -79,6 +79,13 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.vis2k.mirror": {
+      "version": "https://github.com/TCROC/Mirror-UPM.git#releases/upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2f2b7cc7ed5a2e6f8acce57e7484b23ae0a4c761"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

@@ -1,10 +1,13 @@
 {
     "name": "PackageReferencingBug",
     "references": [
-        "GUID:7442a068d15dc104792fad09266959e3"
+        "GUID:7442a068d15dc104792fad09266959e3",
+        "GUID:30817c1a0e6d646d99c048fc403f5979"
     ],
     "includePlatforms": [],
-    "excludePlatforms": [],
+    "excludePlatforms": [
+        "iOS"
+    ],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
