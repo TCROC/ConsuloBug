@@ -7,7 +7,7 @@
       "dependencies": {}
     },
     "com.consulo.ide": {
-      "version": "2.2.0",
+      "version": "2.4.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -84,7 +84,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "2f2b7cc7ed5a2e6f8acce57e7484b23ae0a4c761"
+      "hash": "e576cb1425ded1059f7d2f6ad79adf6732f4feaa"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

@@ -1,6 +1,15 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "consulo.io",
+      "url": "https://upm.consulo.io/",
+      "scopes": [
+        "com.consulo"
+      ]
+    }
+  ],
   "dependencies": {
-    "com.consulo.ide": "2.2.0",
+    "com.consulo.ide": "2.4.0",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.2",
@@ -40,14 +49,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "scopedRegistries": [
-    {
-      "name": "consulo.io",
-      "url": "https://upm.consulo.io/",
-      "scopes": [
-        "com.consulo"
-      ]
-    }
-  ]
+  }
 }
