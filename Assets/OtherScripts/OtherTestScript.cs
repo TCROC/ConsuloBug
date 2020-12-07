@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Mirror;
+using TMPro;
+using Newtonsoft.Json;
+using UnityEngine.UI;
 
 public class OtherTestScript : MonoBehaviour
 {
