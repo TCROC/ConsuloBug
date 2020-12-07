@@ -6,7 +6,7 @@ using TMPro;
 using Newtonsoft.Json;
 using UnityEngine.UI;
 
-public class OtherTestScript : MonoBehaviour
+public class WorkingNormalScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()

@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using Newtonsoft.Json;
 
-public class TestScript : MonoBehaviour
+public class BrokenEmbeddedPackageScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
